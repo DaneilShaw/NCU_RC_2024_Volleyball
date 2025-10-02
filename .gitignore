@@ -33,6 +33,7 @@
 *.tmp
 *.user
 *.log
+*.jscope
 
 # VSCode
 .vscode/
